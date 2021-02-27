@@ -1,2 +1,2 @@
 # docker
-Docker DIND for CI
+Docker for CI
